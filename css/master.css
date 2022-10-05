@@ -1,6 +1,18 @@
 /* Dit bestand noemt master.css om dat dit de meest gebruikte naam is, idk waarom eigenlijk. */
+
+/*
+Padding & Margin (wordt overal gebruikt, is essentieel in design zowel online als offline)
+
+
+padding = spatie tussen element inhoud en element border/rand
+margin = spatie rond element border/rand 
+
+Een duidelijke foto over padding & margin https: //static.javatpoint.com/csspages/images/margin-padding.png
+
+Goeie uitleg: https://www.javatpoint.com/margin-vs-padding
+*/
 body {
-    margin: 0;
+    margin: 0; /**/
 }
 header {
     background-color: gray;
