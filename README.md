@@ -6,8 +6,12 @@
 
 
 ### Layout:
-- <html>
-- - <head>
-- - - <link>
-- - - <title>
-- - <body>
+- html
+- - head
+- - - link
+- - - title
+- - body
+- - - header
+- - - main
+- - - aside
+- - - footer
