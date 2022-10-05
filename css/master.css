@@ -28,6 +28,9 @@ a {
 a:hover /* :hover is een selector, wanneer jeje muis over een element (<a></a> in dit geval) doet, wordt dit geactiveerd */ {
     text-decoration: underline;
 }
+main, aside /*Indien je een stijl wilt toepassen op meerdere elementen, gebruik je gewoon een komma*/ {
+    padding: 15px;
+}
 footer {
     background-color: gray;
     color: white;
