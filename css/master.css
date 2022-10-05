@@ -17,8 +17,19 @@ body {
 header {
     background-color: gray;
     color: white;
+    padding: 15px;
+}
+header > h1 /* > is een soort selector, dit betekent: pak alle <h1> elementen die zich in een <header> bevinden */ {
+    margin-top: 0;
+}
+a {
+    text-decoration: none;
+}
+a:hover /* :hover is een selector, wanneer jeje muis over een element (<a></a> in dit geval) doet, wordt dit geactiveerd */ {
+    text-decoration: underline;
 }
 footer {
     background-color: gray;
     color: white;
+    padding: 15px;
 }
