@@ -1,0 +1,12 @@
+/* Dit bestand noemt master.css om dat dit de meest gebruikte naam is, idk waarom eigenlijk. */
+body {
+    margin: 0;
+}
+header {
+    background-color: gray;
+    color: white;
+}
+footer {
+    background-color: gray;
+    color: white;
+}
