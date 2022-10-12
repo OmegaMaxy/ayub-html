@@ -1,7 +1,8 @@
 ### Git
 
 Open de command line (of git bash).<br/>
-Navigeer naar de gewenste folder om op github te zetten.
+Navigeer naar de gewenste folder om op github te zetten
+a.d.h.v. ``cd c:/Users/gebruikersnaam/...``.
 
 Voer de volgende commandos uit:
 - ``git add -A`` voeg alles toe aan upload-lijst
